@@ -262,7 +262,7 @@ Encontrou um bug? Abra uma [issue](https://github.com/seu-usuario/security-scann
 
 ## 👥 Autores
 
-- **Seu Nome** - *Desenvolvimento Inicial* - [GitHub](https://github.com/doughanmoraes)
+- **Doughan Moraes** - *Desenvolvimento Inicial* - [GitHub](https://github.com/doughanmoraes)
 
 ## 📄 Licença
 
